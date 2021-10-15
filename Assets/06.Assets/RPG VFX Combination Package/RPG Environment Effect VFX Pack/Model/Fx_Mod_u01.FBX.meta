@@ -1,0 +1,716 @@
+fileFormatVersion: 2
+guid: 65541d79c63344feb82c6b19b0eb2486
+ModelImporter:
+  serializedVersion: 20200
+  internalIDToNameTable:
+  - first:
+      1: 100000
+    second: Bone010
+  - first:
+      1: 100002
+    second: Bone011
+  - first:
+      1: 100004
+    second: Bone012
+  - first:
+      1: 100006
+    second: Bone013
+  - first:
+      1: 100008
+    second: Bone014
+  - first:
+      1: 100010
+    second: Bone015
+  - first:
+      1: 100012
+    second: Bone016
+  - first:
+      1: 100014
+    second: Bone017
+  - first:
+      1: 100016
+    second: Bone018
+  - first:
+      1: 100018
+    second: Bone019
+  - first:
+      1: 100020
+    second: Bone020
+  - first:
+      1: 100022
+    second: Bone021
+  - first:
+      1: 100024
+    second: Bone022
+  - first:
+      1: 100026
+    second: Bone023
+  - first:
+      1: 100028
+    second: Bone024
+  - first:
+      1: 100030
+    second: Bone025
+  - first:
+      1: 100032
+    second: Bone026
+  - first:
+      1: 100034
+    second: Bone027
+  - first:
+      1: 100036
+    second: Bone028
+  - first:
+      1: 100038
+    second: Bone029
+  - first:
+      1: 100040
+    second: Dummy004
+  - first:
+      1: 100042
+    second: Dummy005
+  - first:
+      1: 100044
+    second: Dummy006
+  - first:
+      1: 100046
+    second: Dummy007
+  - first:
+      1: 100048
+    second: Dummy008
+  - first:
+      1: 100050
+    second: Dummy009
+  - first:
+      1: 100052
+    second: Dummy010
+  - first:
+      1: 100054
+    second: Dummy011
+  - first:
+      1: 100056
+    second: Dummy012
+  - first:
+      1: 100058
+    second: Dummy013
+  - first:
+      1: 100060
+    second: //RootNode
+  - first:
+      1: 100062
+    second: Line001
+  - first:
+      1: 100064
+    second: Line002
+  - first:
+      1: 100066
+    second: Plane007
+  - first:
+      1: 100068
+    second: Plane008
+  - first:
+      1: 100070
+    second: Plane009
+  - first:
+      1: 100072
+    second: Plane010
+  - first:
+      1: 100074
+    second: Plane011
+  - first:
+      1: 100076
+    second: Plane012
+  - first:
+      1: 100078
+    second: Plane013
+  - first:
+      1: 100080
+    second: Plane014
+  - first:
+      1: 100082
+    second: Plane015
+  - first:
+      1: 100084
+    second: Plane016
+  - first:
+      1: 100086
+    second: Plane017
+  - first:
+      1: 100088
+    second: Plane018
+  - first:
+      1: 100090
+    second: Plane019
+  - first:
+      1: 100092
+    second: Plane020
+  - first:
+      1: 100094
+    second: Plane021
+  - first:
+      1: 100096
+    second: Plane022
+  - first:
+      1: 100098
+    second: Plane023
+  - first:
+      1: 100100
+    second: Plane024
+  - first:
+      1: 100102
+    second: Bone005
+  - first:
+      4: 400000
+    second: Bone010
+  - first:
+      4: 400002
+    second: Bone011
+  - first:
+      4: 400004
+    second: Bone012
+  - first:
+      4: 400006
+    second: Bone013
+  - first:
+      4: 400008
+    second: Bone014
+  - first:
+      4: 400010
+    second: Bone015
+  - first:
+      4: 400012
+    second: Bone016
+  - first:
+      4: 400014
+    second: Bone017
+  - first:
+      4: 400016
+    second: Bone018
+  - first:
+      4: 400018
+    second: Bone019
+  - first:
+      4: 400020
+    second: Bone020
+  - first:
+      4: 400022
+    second: Bone021
+  - first:
+      4: 400024
+    second: Bone022
+  - first:
+      4: 400026
+    second: Bone023
+  - first:
+      4: 400028
+    second: Bone024
+  - first:
+      4: 400030
+    second: Bone025
+  - first:
+      4: 400032
+    second: Bone026
+  - first:
+      4: 400034
+    second: Bone027
+  - first:
+      4: 400036
+    second: Bone028
+  - first:
+      4: 400038
+    second: Bone029
+  - first:
+      4: 400040
+    second: Dummy004
+  - first:
+      4: 400042
+    second: Dummy005
+  - first:
+      4: 400044
+    second: Dummy006
+  - first:
+      4: 400046
+    second: Dummy007
+  - first:
+      4: 400048
+    second: Dummy008
+  - first:
+      4: 400050
+    second: Dummy009
+  - first:
+      4: 400052
+    second: Dummy010
+  - first:
+      4: 400054
+    second: Dummy011
+  - first:
+      4: 400056
+    second: Dummy012
+  - first:
+      4: 400058
+    second: Dummy013
+  - first:
+      4: 400060
+    second: //RootNode
+  - first:
+      4: 400062
+    second: Line001
+  - first:
+      4: 400064
+    second: Line002
+  - first:
+      4: 400066
+    second: Plane007
+  - first:
+      4: 400068
+    second: Plane008
+  - first:
+      4: 400070
+    second: Plane009
+  - first:
+      4: 400072
+    second: Plane010
+  - first:
+      4: 400074
+    second: Plane011
+  - first:
+      4: 400076
+    second: Plane012
+  - first:
+      4: 400078
+    second: Plane013
+  - first:
+      4: 400080
+    second: Plane014
+  - first:
+      4: 400082
+    second: Plane015
+  - first:
+      4: 400084
+    second: Plane016
+  - first:
+      4: 400086
+    second: Plane017
+  - first:
+      4: 400088
+    second: Plane018
+  - first:
+      4: 400090
+    second: Plane019
+  - first:
+      4: 400092
+    second: Plane020
+  - first:
+      4: 400094
+    second: Plane021
+  - first:
+      4: 400096
+    second: Plane022
+  - first:
+      4: 400098
+    second: Plane023
+  - first:
+      4: 400100
+    second: Plane024
+  - first:
+      4: 400102
+    second: Bone005
+  - first:
+      23: 2300000
+    second: Plane007
+  - first:
+      23: 2300002
+    second: Plane008
+  - first:
+      23: 2300004
+    second: Plane009
+  - first:
+      23: 2300006
+    second: Plane010
+  - first:
+      23: 2300008
+    second: Plane011
+  - first:
+      23: 2300010
+    second: Plane012
+  - first:
+      23: 2300012
+    second: Plane013
+  - first:
+      23: 2300014
+    second: Plane014
+  - first:
+      23: 2300016
+    second: Plane015
+  - first:
+      23: 2300018
+    second: Plane016
+  - first:
+      23: 2300020
+    second: Plane017
+  - first:
+      23: 2300022
+    second: Plane018
+  - first:
+      23: 2300024
+    second: Plane019
+  - first:
+      23: 2300026
+    second: Plane020
+  - first:
+      23: 2300028
+    second: Plane021
+  - first:
+      23: 2300030
+    second: Plane022
+  - first:
+      23: 2300032
+    second: Plane023
+  - first:
+      23: 2300034
+    second: Plane024
+  - first:
+      33: 3300000
+    second: Plane007
+  - first:
+      33: 3300002
+    second: Plane008
+  - first:
+      33: 3300004
+    second: Plane009
+  - first:
+      33: 3300006
+    second: Plane010
+  - first:
+      33: 3300008
+    second: Plane011
+  - first:
+      33: 3300010
+    second: Plane012
+  - first:
+      33: 3300012
+    second: Plane013
+  - first:
+      33: 3300014
+    second: Plane014
+  - first:
+      33: 3300016
+    second: Plane015
+  - first:
+      33: 3300018
+    second: Plane016
+  - first:
+      33: 3300020
+    second: Plane017
+  - first:
+      33: 3300022
+    second: Plane018
+  - first:
+      33: 3300024
+    second: Plane019
+  - first:
+      33: 3300026
+    second: Plane020
+  - first:
+      33: 3300028
+    second: Plane021
+  - first:
+      33: 3300030
+    second: Plane022
+  - first:
+      33: 3300032
+    second: Plane023
+  - first:
+      33: 3300034
+    second: Plane024
+  - first:
+      43: 4300000
+    second: Plane007
+  - first:
+      43: 4300002
+    second: Plane008
+  - first:
+      43: 4300004
+    second: Plane009
+  - first:
+      43: 4300006
+    second: Plane010
+  - first:
+      43: 4300008
+    second: Plane013
+  - first:
+      43: 4300010
+    second: Plane014
+  - first:
+      43: 4300012
+    second: Plane011
+  - first:
+      43: 4300014
+    second: Plane012
+  - first:
+      43: 4300016
+    second: Plane015
+  - first:
+      43: 4300018
+    second: Plane016
+  - first:
+      43: 4300020
+    second: Plane017
+  - first:
+      43: 4300022
+    second: Plane018
+  - first:
+      43: 4300024
+    second: Plane019
+  - first:
+      43: 4300026
+    second: Plane020
+  - first:
+      43: 4300028
+    second: Plane021
+  - first:
+      43: 4300030
+    second: Plane022
+  - first:
+      43: 4300032
+    second: Plane023
+  - first:
+      43: 4300034
+    second: Plane024
+  - first:
+      74: 7400000
+    second: Take 001
+  - first:
+      95: 9500000
+    second: //RootNode
+  - first:
+      111: 11100000
+    second: //RootNode
+  externalObjects: {}
+  materials:
+    materialImportMode: 0
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 0
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      internalID: 0
+      firstFrame: 0
+      lastFrame: 300
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Bone011
+        weight: 1
+      - path: Bone011/Dummy004
+        weight: 1
+      - path: Bone011/Dummy004/Bone010
+        weight: 1
+      - path: Bone011/Dummy004/Bone010/Plane007
+        weight: 1
+      - path: Bone011/Dummy004/Bone012
+        weight: 1
+      - path: Bone011/Dummy004/Bone012/Plane008
+        weight: 1
+      - path: Bone011/Dummy004/Dummy005
+        weight: 1
+      - path: Bone011/Dummy004/Dummy005/Bone013
+        weight: 1
+      - path: Bone011/Dummy004/Dummy005/Bone013/Plane009
+        weight: 1
+      - path: Bone011/Dummy004/Dummy005/Bone014
+        weight: 1
+      - path: Bone011/Dummy004/Dummy005/Bone014/Plane010
+        weight: 1
+      - path: Bone011/Dummy004/Dummy006
+        weight: 1
+      - path: Bone011/Dummy004/Dummy006/Bone015
+        weight: 1
+      - path: Bone011/Dummy004/Dummy006/Bone015/Plane011
+        weight: 1
+      - path: Bone011/Dummy004/Dummy006/Bone016
+        weight: 1
+      - path: Bone011/Dummy004/Dummy006/Bone016/Plane012
+        weight: 1
+      - path: Bone011/Dummy004/Dummy007
+        weight: 1
+      - path: Bone011/Dummy004/Dummy007/Bone017
+        weight: 1
+      - path: Bone011/Dummy004/Dummy007/Bone017/Plane013
+        weight: 1
+      - path: Bone011/Dummy004/Dummy007/Bone018
+        weight: 1
+      - path: Bone011/Dummy004/Dummy007/Bone018/Plane014
+        weight: 1
+      - path: Bone019
+        weight: 1
+      - path: Bone019/Dummy008
+        weight: 1
+      - path: Bone019/Dummy008/Bone020
+        weight: 1
+      - path: Bone019/Dummy008/Bone020/Plane015
+        weight: 1
+      - path: Bone019/Dummy008/Bone021
+        weight: 1
+      - path: Bone019/Dummy008/Bone021/Plane016
+        weight: 1
+      - path: Bone019/Dummy009
+        weight: 1
+      - path: Bone019/Dummy009/Bone022
+        weight: 1
+      - path: Bone019/Dummy009/Bone022/Plane017
+        weight: 1
+      - path: Bone019/Dummy009/Bone023
+        weight: 1
+      - path: Bone019/Dummy009/Bone023/Plane018
+        weight: 1
+      - path: Bone019/Dummy010
+        weight: 1
+      - path: Bone019/Dummy010/Bone024
+        weight: 1
+      - path: Bone019/Dummy010/Bone024/Plane019
+        weight: 1
+      - path: Bone019/Dummy010/Bone025
+        weight: 1
+      - path: Bone019/Dummy010/Bone025/Plane020
+        weight: 1
+      - path: Bone019/Dummy011
+        weight: 1
+      - path: Bone019/Dummy011/Bone026
+        weight: 1
+      - path: Bone019/Dummy011/Bone026/Plane021
+        weight: 1
+      - path: Bone019/Dummy011/Bone027
+        weight: 1
+      - path: Bone019/Dummy011/Bone027/Plane022
+        weight: 1
+      - path: Bone019/Dummy012
+        weight: 1
+      - path: Bone019/Dummy012/Bone028
+        weight: 1
+      - path: Bone019/Dummy012/Bone028/Plane023
+        weight: 1
+      - path: Bone019/Dummy012/Bone029
+        weight: 1
+      - path: Bone019/Dummy012/Bone029/Plane024
+        weight: 1
+      - path: Dummy013
+        weight: 1
+      - path: Dummy013/Line001
+        weight: 1
+      - path: Dummy013/Line002
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 0
+    importBlendShapes: 1
+    importCameras: 0
+    importLights: 0
+    fileIdsGeneration: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 0
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+    normalCalculationMode: 0
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 1
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 1
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 0
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
